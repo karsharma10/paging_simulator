@@ -11,3 +11,5 @@ The Predictive Paging algorithm takes a forward-looking approach by predicting t
 To achieve these predictions, I employ Markov State Models to classify program behavior, such as linear, loop, or double nested. This classification enables the algorithm to intelligently page in the corresponding pages based on the anticipated program trajectory.
 
 Feel free to explore the codebase and delve into the intricacies of these paging algorithms. This project serves as a testament to my expertise in memory optimization techniques and algorithmic problem-solving.
+
+Tested on Linux environment. 
